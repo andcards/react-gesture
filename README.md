@@ -1,5 +1,7 @@
 # react-gesture
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/opensource-cards/react-gesture.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/opensource-cards/react-gesture.svg?branch=master)](https://travis-ci.org/opensource-cards/react-gesture)
 [![npm package](https://badge.fury.io/js/react-gesture.svg)](https://www.npmjs.org/package/react-gesture)
 [![Dependency Status](https://david-dm.org/opensource-cards/react-gesture.svg)](https://david-dm.org/opensource-cards/react-gesture)
