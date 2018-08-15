@@ -7,7 +7,7 @@
 [![devDependency Status](https://david-dm.org/opensource-cards/react-gesture/dev-status.svg)](https://david-dm.org/opensource-cards/react-gesture#info=devDependencies)
 [![peerDependency Status](https://david-dm.org/opensource-cards/react-gesture/peer-status.svg)](https://david-dm.org/opensource-cards/react-gesture#info=peerDependencies)
 
-A gesture recognizer for web and mobile devices for React.
+A web gesture recognizer for React.
 
 ![](https://github.com/opensource-cards/react-gesture/blob/master/demo.gif)
 
