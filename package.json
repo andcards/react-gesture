@@ -1,7 +1,7 @@
 {
   "name": "react-gesture",
   "version": "0.0.5",
-  "description": "A web gesture recognizer for React.",
+  "description": "Web gestures recognizer component for React.",
   "keywords": [
     "react",
     "component",
