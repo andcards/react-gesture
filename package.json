@@ -36,7 +36,7 @@
     "babel": "^6.3.26",
     "babel-cli": "^6.16.0",
     "babel-core": "^6.16.0",
-    "babel-eslint": "^8.0.1",
+    "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.16.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.6",
