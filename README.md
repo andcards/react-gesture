@@ -1,15 +1,15 @@
 # react-gesture
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/opensource-cards/react-gesture.svg)](https://greenkeeper.io/)
-[![Build Status](https://travis-ci.org/opensource-cards/react-gesture.svg?branch=master)](https://travis-ci.org/opensource-cards/react-gesture)
+[![Greenkeeper badge](https://badges.greenkeeper.io/andcards/react-gesture.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/andcards/react-gesture.svg?branch=master)](https://travis-ci.org/andcards/react-gesture)
 [![npm package](https://badge.fury.io/js/react-gesture.svg)](https://www.npmjs.org/package/react-gesture)
-[![Dependency Status](https://david-dm.org/opensource-cards/react-gesture.svg)](https://david-dm.org/opensource-cards/react-gesture)
-[![devDependency Status](https://david-dm.org/opensource-cards/react-gesture/dev-status.svg)](https://david-dm.org/opensource-cards/react-gesture#info=devDependencies)
-[![peerDependency Status](https://david-dm.org/opensource-cards/react-gesture/peer-status.svg)](https://david-dm.org/opensource-cards/react-gesture#info=peerDependencies)
+[![Dependency Status](https://david-dm.org/andcards/react-gesture.svg)](https://david-dm.org/andcards/react-gesture)
+[![devDependency Status](https://david-dm.org/andcards/react-gesture/dev-status.svg)](https://david-dm.org/andcards/react-gesture#info=devDependencies)
+[![peerDependency Status](https://david-dm.org/andcards/react-gesture/peer-status.svg)](https://david-dm.org/andcards/react-gesture#info=peerDependencies)
 
 Web gestures recognizer component for React.
 
-![](https://github.com/opensource-cards/react-gesture/blob/master/demo.gif)
+![](https://github.com/andcards/react-gesture/blob/master/demo.gif)
 
 ### Installation
 
