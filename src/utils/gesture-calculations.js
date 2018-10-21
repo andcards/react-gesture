@@ -1,4 +1,9 @@
-import { RIGHT, DOWN, LEFT, UP } from '../constants/direction-types';
+import {
+  RIGHT,
+  DOWN,
+  LEFT,
+  UP,
+} from '../constants/direction-types';
 
 export function getDistance(points, x, y) {
   const firstPoint = points[1];
