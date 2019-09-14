@@ -45,7 +45,7 @@
     "babel-preset-react": "^6.16.0",
     "babel-runtime": "^6.26.0",
     "binary-ui-styles": "^0.6.55",
-    "eslint": "^5.7.0",
+    "eslint": "^6.4.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
